@@ -1,6 +1,6 @@
 ---
 title: "RStudio Tips and Tricks"
-author: "Sean Lopp"
+author: "Sean Lopp / Luis Aburto"
 output:
   xaringan::moon_reader:
     nature:
@@ -24,7 +24,7 @@ Scientists keep lab notebooks, data *scientists* should keep notebooks for the s
 
 ???
 
-talk a bit about notebooks 
+talk a bit about notebooks cambio hecho por luaburto
 
 ---
 
